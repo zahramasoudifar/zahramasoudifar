@@ -63,12 +63,6 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 
 </p>
 
-## 📫 Connect With Me
 
-<p align="center">
-<a href="https://github.com/zamasoudifar">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
 
 
