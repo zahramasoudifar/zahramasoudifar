@@ -63,6 +63,3 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 
 </p>
 
-
-
-    این تو گیتمه میخوام تغییرش بدم
