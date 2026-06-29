@@ -23,6 +23,58 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 - 📚 Always learning new technologies
 
 ---
+<h1 align="center">Hi 👋, I'm Zahra Masoudifar</h1>
+
+<h3 align="center">
+Frontend Developer | Angular Developer | TypeScript Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;TypeScript+Developer;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamasoudifar-stack&label=Profile+Views&color=blue" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning advanced Angular concepts
+- 💻 Frontend Developer
+- 🚀 Passionate about building responsive web applications
+- 🎯 Focused on clean code and great user experience
+- 📚 Always learning new technologies
+
+---
+
+## 🛠 Languages & Tools
+<h1 align="center">Hi 👋, I'm Zahra Masoudifar</h1>
+
+<h3 align="center">
+Frontend Developer | Angular Developer | TypeScript Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;TypeScript+Developer;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamasoudifar-stack&label=Profile+Views&color=blue" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning advanced Angular concepts
+- 💻 Frontend Developer
+- 🚀 Passionate about building responsive web applications
+- 🎯 Focused on clean code and great user experience
+- 📚 Always learning new technologies
+
+---
 
 ## 🛠 Languages & Tools
 
@@ -60,6 +112,20 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 <a href="https://www.oracle.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50"/>
 </a>
+
+</p>
+
+
+
+
+
+
+</p>
+
+
+
+
+
 
 </p>
 
