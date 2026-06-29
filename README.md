@@ -23,23 +23,7 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 - 📚 Always learning new technologies
 
 ---
-<h1 align="center">Hi 👋, I'm Zahra Masoudifar</h1>
 
-<h3 align="center">
-Frontend Developer | Angular Developer | TypeScript Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;TypeScript+Developer;Building+Modern+Web+Applications" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zamasoudifar-stack&label=Profile+Views&color=blue" />
-</p>
-
----
-
----
 
 ## 🛠 Languages & Tools
 
