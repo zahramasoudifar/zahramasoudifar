@@ -24,7 +24,6 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 
 ---
 
-
 ## 🛠 Languages & Tools
 
 <p align="center">
@@ -66,18 +65,4 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 
 
 
-
-
-
-</p>
-
-
-
-
-
-
-</p>
-
-
-
-
+    این تو گیتمه میخوام تغییرش بدم
