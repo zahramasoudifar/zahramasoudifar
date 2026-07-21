@@ -62,4 +62,3 @@ Frontend Developer | Angular Developer | TypeScript Enthusiast
 </a>
 
 </p>
-این با کدومه
