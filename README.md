@@ -1,27 +1,32 @@
 <h1 align="center">Hi 👋, I'm Zahra Masoudifar</h1>
 
 <h3 align="center">
-Frontend Developer | Angular Developer | TypeScript Enthusiast
+Frontend Developer • Angular Developer • TypeScript • SQL & Database
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;TypeScript+Developer;Building+Modern+Web+Applications" />
+  Passionate about building modern, responsive, and scalable web applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zamasoudifar-stack&label=Profile+Views&color=blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Frontend+Developer;Angular+Developer;TypeScript+Developer;SQL+%26+Database+Enthusiast;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamasoudifar-stack&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning advanced Angular concepts
-- 💻 Frontend Developer
-- 🚀 Passionate about building responsive web applications
-- 🎯 Focused on clean code and great user experience
-- 📚 Always learning new technologies
-
+- 💻 Frontend Developer with a strong focus on **Angular**, **TypeScript**, and modern web development.
+- 🌱 Continuously learning advanced Angular concepts, design patterns, and frontend architecture.
+- 🎨 Passionate about creating responsive, accessible, and user-friendly interfaces.
+- ⚡ Experienced with **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, and **TypeScript**.
+- 🗄 Familiar with relational databases including **PostgreSQL**, **Microsoft SQL Server**, and **Oracle Database**.
+- 🎯 Dedicated to writing clean, maintainable, and scalable code while following best practices.
+- 🚀 Always exploring new technologies to improve development workflows and build better applications.
 ---
 
 ## 🛠 Languages & Tools
